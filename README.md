@@ -5,17 +5,17 @@ The following is a ML repository where I've included my notes on various Standfo
 
 Machine Learning Specialization -- Offered by Standford 
 
-Personal Notes: 
-My coded projects:
-Concepts Learned:
+Personal Notes: <br>
+My coded projects: <br>
+Concepts Learned:<br>
 Technical Framework & Tools: 
 
 Deep Learning Specialization -- Offered by Standford 
 
-Personal Notes: 
-My coded projects:
-Concepts Learned:
-Technical Framework & Tools: 
+Personal Notes: <br>
+My coded projects: <br>
+Concepts Learned: <br>
+Technical Framework & Tools: <br>
 
 
 ML-Ops Specialization - Machine Learning Engineering in Production (Offered by Standford Profs + Google Engineers) 
