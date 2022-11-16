@@ -24,7 +24,8 @@ My coded projects: <br>
 Concepts Learned: <br>
 Technical Framework & Tools: <br>
 
-Tensorflow Developers Certificate:
+
+Tensorflow Developers Certificate 
 Personal Notes: <br> 
 My coded projects: <br>
 Concepts Learned: <br>
