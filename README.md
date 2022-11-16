@@ -25,7 +25,7 @@ Concepts Learned: <br>
 Technical Framework & Tools: <br>
 
 
-Tensorflow Developers Certificate 
+Tensorflow Developers Certificate -- Taught by Google Engineers 
 Personal Notes: <br> 
 My coded projects: <br>
 Concepts Learned: <br>
