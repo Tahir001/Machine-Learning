@@ -17,12 +17,15 @@ My coded projects: <br>
 Concepts Learned: <br>
 Technical Framework & Tools: <br>
 
-
 ML-Ops Specialization - Machine Learning Engineering in Production (Offered by Standford Profs + Google Engineers) 
 
-Personal Notes: 
-My coded projects:
-Concepts Learned:
-Technical Framework & Tools: 
+Personal Notes: <br> 
+My coded projects: <br>
+Concepts Learned: <br>
+Technical Framework & Tools: <br>
 
-Tensorflow Developers Certificate: 
+Tensorflow Developers Certificate:
+Personal Notes: <br> 
+My coded projects: <br>
+Concepts Learned: <br>
+Technical Framework & Tools: <br>
